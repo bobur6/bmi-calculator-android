@@ -1,4 +1,4 @@
-package com.example.week3_androidpro
+package com.example.bmicalculator
 
 import org.junit.Test
 

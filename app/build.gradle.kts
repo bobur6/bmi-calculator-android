@@ -7,11 +7,11 @@ android {
     buildFeatures {
         viewBinding = true
     }
-    namespace = "com.example.week3_androidpro"
+    namespace = "com.example.bmicalculator"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.week3_androidpro"
+        applicationId = "com.example.bmicalculator"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

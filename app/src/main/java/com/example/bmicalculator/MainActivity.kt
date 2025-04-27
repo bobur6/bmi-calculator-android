@@ -1,11 +1,10 @@
-package com.example.week3_androidpro
+package com.example.bmicalculator
 
 import android.graphics.Color
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.example.week3_androidpro.databinding.ActivityMainBinding
+import com.example.bmicalculator.databinding.ActivityMainBinding
 import com.google.android.material.snackbar.Snackbar
-import android.view.View
 import android.animation.ObjectAnimator
 import android.widget.*
 
