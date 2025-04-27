@@ -1,0 +1,18 @@
+# Android/IntelliJ
+*.iml
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+/build/
+captures/
+.externalNativeBuild/
+.cxx/
+# macOS
+*.DS_Store
+# Windows
+Thumbs.db
+# Log
+*.log
+# Others
+output.json

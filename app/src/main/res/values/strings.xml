@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Калькулятор BMI</string>
+    <string name="hint_weight">Вес (в кг)</string>
+    <string name="hint_height">Рост (в см)</string>
+    <string name="calc">Рассчитать</string>
+    <string name="clear">Очистить</string>
+    <string name="bmi_result">BMI: %1$s</string>
+    <string name="underweight">Недостаточный вес</string>
+    <string name="normal_weight">Нормальный вес</string>
+    <string name="overweight">Избыточный вес</string>
+    <string name="obesity">Ожирение</string>
+    <string name="advice_underweight">Рекомендуется увеличить калорийность рациона и проконсультироваться с врачом.</string>
+    <string name="advice_normal">Отличный результат! Поддерживайте здоровый образ жизни.</string>
+    <string name="advice_overweight">Рекомендуется увеличить физическую активность и следить за питанием.</string>
+    <string name="advice_obesity">Обратитесь к врачу для индивидуальных рекомендаций и контроля веса.</string>
+    <string name="error_input">Введите корректные данные для веса и роста.</string>
+</resources>
